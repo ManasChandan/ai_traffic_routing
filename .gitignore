@@ -1,0 +1,22 @@
+# Python-specific
+*.pyc
+*.pyo
+__pycache__/
+.pytest_cache/
+.tox/
+.coverage
+nosetests.xml
+coverage.xml
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# IDE-specific
+*.swp
+*.DS_Store
+.vscode/
+
+# test folder
+test_folder/
